@@ -1,0 +1,1 @@
+As we have learned in the lecture earlier, we perform authentication on either the entire server or you can perform authentication on specific rows, you can perform authentication in specific URIs as you choose to do so. In this case, we're going to perform the basic authentication on the entire application. So whenever you access the server you need to authenticate it yourself
